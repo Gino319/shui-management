@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="E:/HohaiU/In-ClassLearning/Junior/数据库系统原理实践/shui_management/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="E:/HohaiU/In-ClassLearning/Junior/数据库系统原理实践/shui_management/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="E:/HohaiU/In-ClassLearning/Junior/数据库系统原理实践/shui_management/libs/mysql-connector-j-8.2.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.2.0.jar"/>
+    <PostResources base="E:/HohaiU/In-ClassLearning/Junior/数据库系统原理实践/shui_management/libs/servlet-api.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/servlet-api.jar"/>
+    <PostResources base="C:/JDK/MavenRepository/commons-dbutils/commons-dbutils/1.7/commons-dbutils-1.7.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/commons-dbutils-1.7.jar"/>
+    <PostResources base="C:/JDK/MavenRepository/org/json/json/20210307/json-20210307.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/json-20210307.jar"/>
+  </Resources>
+</Context>
